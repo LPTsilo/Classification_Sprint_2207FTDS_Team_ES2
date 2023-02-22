@@ -6,7 +6,7 @@ After trying different models, we found that the `Support Vector Machine (SVM)` 
 
 To showcase our model, we created a Streamlit app that allows users to enter a tweet and see its sentiment classification. The app is easy to use and provides an interactive way to demonstrate the capabilities of our model. 
 
-For the demonstration of the app go [here]("https://github.com/LPTsilo/classification-predict-streamlit-template")
+For the demonstration of the app click [here]("https://github.com/LPTsilo/classification-predict-streamlit-template").
 
 Overall, we are proud of our work and excited to continue learning and improving our skills in data science and machine learning.
 
